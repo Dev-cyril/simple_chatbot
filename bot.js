@@ -1,6 +1,5 @@
 alert("This bot works based on a predefned template. Kindly see the source code for the template.");
 alert("Also, I am open to reviews, corrections or how I can better improve it. Thank you!");
-alert("One more thing, pardon my designs. It probably sucks");
 
 function Mybot(){
     this.possibleMessage = ["hi", "how old are you?", "how long have you been in existence?", "who is the president of nigeria?"];
